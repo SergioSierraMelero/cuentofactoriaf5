@@ -7,6 +7,9 @@ Un grupo de estudiantes de AI...
 =======
 
 Érase una vez...
+
+El Saltamontes se encontró con su amigo el Grillo, quien encontó un diamante encantado y 
+ambos ganaron superpoderes!
 Un grupo de estudiantes de AI...
 Érase una vez... un pequeño saltamontes
 
