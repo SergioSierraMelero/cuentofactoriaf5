@@ -12,3 +12,6 @@ El saltamontes tenía hambre...
 y saltó!
 >>>>>>> 4e9653cd2a02aa32fe1562261ac41fadd7f22475
 Pero se rompió una pata
+
+=======
+y se arrastraba cuando andaba
