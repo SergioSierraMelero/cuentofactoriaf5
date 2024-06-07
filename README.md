@@ -12,3 +12,4 @@ y saltó!
 Pero se rompió una pata
 
 y se cayó
+Con tal mala suerte de que había un precipicio
